@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda+One&display=swap" rel="stylesheet');
+
+
+.mainpage{
+width:90%; height:100vh;
+margin:auto;
+font-family: 'Merienda One', cursive;
+text-shadow:4px;	
+	
+}
+.mainpage h1{
+margin:0; padding: 5px 0;
+text-align:center;	
+	
+}
+
+
+.avatarstyle{
+background:#639;
+margin:16px;
+padding:6px;
+
+display:inline-block;
+text-align:center;	
+	
+}
+
+
+.avatarstyle img{
+width:250px;
+height:120px;
+margin:4px;
+	
+	
+	
+}
+.avatarh1{
+	
+}
